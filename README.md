@@ -1,10 +1,45 @@
-# 🛡️ Cybersecurity Portfolio – Silas Anderson
+# 👋 Hi, I'm Silas Anderson
 
-Welcome to my cybersecurity portfolio. I'm a Level 3 Desktop Support Technician with a Bachelor’s degree in Cybersecurity and Information Assurance from WGU. I'm transitioning into a cybersecurity-focused role with a strong interest in Blue Team operations.
+I'm a Level 3 Desktop Support Technician with a Bachelor's degree in Cybersecurity and Information Assurance.  
+I'm actively transitioning into a **SOC Analyst role**, focusing on detection, log analysis, and incident response.
 
-## 🔍 Featured Projects
+---
 
-| Project | Description | Skills |
-|--------|-------------|--------|
-| [Active Directory Lab](./ad-lab/) | Demonstrate AD attacks and mitigations | Windows, AD, Hardening |
-| [Vulnerability Management](./vuln-mgmt/) | Scan and remediate vulnerabilities | Nessus, Risk mgmt |
+## 🎯 Career Focus
+- SOC Operations & Incident Triage
+- Log Analysis (Windows, Linux, Network)
+- SIEM Monitoring & Alert Investigation
+- MITRE ATT&CK Mapping
+- Security Automation (Python & PowerShell)
+
+---
+
+## 🧪 Hands-On Projects
+- **DFIR / SOC Home Lab** – Wazuh SIEM, Suricata IDS, Windows 11, Kali Linux
+- **SOC Investigation Writeups** – Brute-force, malware, and suspicious PowerShell activity
+- **Security Automation Scripts** – Log parsing and endpoint visibility
+- **CTF & Blue Team Labs** – Practical defensive security exercises
+
+---
+
+## 🛠 Tools & Technologies
+- SIEM: Wazuh
+- IDS/IPS: Suricata
+- Operating Systems: Windows 11, Ubuntu Server, Kali Linux
+- Logs: Windows Event Logs, Sysmon, Network Traffic
+- Scripting: Python, PowerShell
+- Frameworks: MITRE ATT&CK, NIST IR Lifecycle
+
+---
+
+## 📚 Ongoing Learning
+This GitHub reflects **active learning and continuous improvement**.  
+I regularly document:
+- SOC investigations
+- Detection logic
+- Lessons learned from labs and exercises
+
+---
+
+## 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/your-link-here
