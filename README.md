@@ -42,4 +42,4 @@ I regularly document:
 ---
 
 ## 🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/your-link-here
+- LinkedIn: 
