@@ -16,7 +16,7 @@ I'm actively transitioning into a **SOC Analyst role**, focusing on detection, l
 
 ## 🧪 Hands-On Projects
 - **DFIR / SOC Home Lab** – Wazuh SIEM, Suricata IDS, Windows 11, Kali Linux
-
+- **SOC Analyst Training (TryHackMe)** – Hands-on Blue/Red team labs
 ---
 
 ## 🛠 Tools & Technologies
